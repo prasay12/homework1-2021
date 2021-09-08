@@ -45,7 +45,7 @@ header, nav, main, h1, footer{
 /*Change the styling for all of the list 
 items in the nav section*/
 nav li{
-	background-color: #ECFF4D;
+	background-color: #eff8a1;
 	padding:10px;
 	width:25%;
 	border:1px solid black;
